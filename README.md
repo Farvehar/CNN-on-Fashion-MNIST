@@ -1,2 +1,2 @@
-# CNN-on-Fashion-MNIST
-Reaching to a high accuracy in Fashion MNIST dataset
+# CNN-on-MNIST-Dataset
+Reaching to a high accuracy in MNIST dataset
